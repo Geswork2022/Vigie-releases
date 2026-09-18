@@ -3,8 +3,6 @@
 Application de test, de lecture et de configuration des déclencheurs **Schneider Micrologic**
 (MasterPacT MTZ / Micrologic X, MasterPacT NW·NT et Compact NSX via boîtier Service Interface LV485500).
 
-> 📦 Ce dépôt ne contient **que les téléchargements** (dossier `downloads/`). Le code source n'est pas public.
-
 **➡️ Page de téléchargement : https://geswork2022.github.io/Vigie-releases/**
 
 ---
