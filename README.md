@@ -22,6 +22,17 @@ Aucune installation : téléchargez le fichier et lancez-le. Application autonom
 2. Double-cliquez **`Installer VIGIE.command`** (prépare et lance l'application non notarisée).
 3. Les fois suivantes, ouvrez directement **`VIGIE Console.app`**.
 
+> ### ⚠️ Application non validée par Apple
+> VIGIE Console n'est pas notarisée par Apple. Au premier lancement, macOS peut la **bloquer**
+> (« développeur non identifié »). C'est normal. Pour l'autoriser **une seule fois** :
+>
+> 1. Cliquez sur **`Installer VIGIE.command`**.
+> 2. Ouvrez le menu  → **Réglages Système** → **Confidentialité et sécurité**.
+> 3. Tout en bas (section **Sécurité**), à côté de « VIGIE Console.app a été bloquée… »,
+>    cliquez sur **« Ouvrir quand même »**, puis confirmez avec **« Ouvrir »**.
+>
+> Ensuite, l'application s'ouvre normalement d'un double-clic.
+
 > Pour dialoguer avec une **Micrologic X branchée en USB direct** sur Mac, installez au préalable libusb :
 > ```
 > brew install libusb
